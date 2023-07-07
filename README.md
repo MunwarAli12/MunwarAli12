@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MunwarAli12
 - 👀 I’m interested in Playing BGMI !!!!
-- 🌱 I’m currently learning WEB ! 
-- 📫 How to reach me Port
+- 🌱 I’m currently learning WEB, Devops ! 
+- 📫 How to reach me <link munwaralijmd@gmail.com>
 
 <!---
 MunwarAli12/MunwarAli12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
