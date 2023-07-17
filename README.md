@@ -5,8 +5,8 @@
 - 🚀 I'm enthusiastic about exploring innovative technologies and staying updated with the latest industry trends.
 - 👀 I’m interested in Playing BGMI !!!!
 - 📫 How to reach me **munwaralijmd@gmail.com**
-- -💼 Check out my GitHub profile for examples of my work and projects I've contributed to.
-- -💡 I enjoy collaborating with like-minded individuals and contributing to open-source projects that have a positive impact on the developer community.
+- 💼 Check out my GitHub profile for examples of my work and projects I've contributed to.
+- 💡 I enjoy collaborating with like-minded individuals and contributing to open-source projects that have a positive impact on the developer community.
 
 <!---
 MunwarAli12/MunwarAli12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
