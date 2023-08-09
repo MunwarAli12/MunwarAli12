@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MunwarAli12 ,B.Tech undergraduate with prominent java knowledge.         
-- 🌱 I’m currently learning WEB, Devops !
+- 🌱 I’m currently learning WEB Devlopment, Devops !
 - 🔎 I am actively seeking job opportunities to contribute my skills to real-time projects and make a meaningful impact.
 - 🎯 My goal is to leverage my Java expertise and newfound web development and devops skills to build robust and efficient applications.
 - 🚀 I'm enthusiastic about exploring innovative technologies and staying updated with the latest industry trends.
