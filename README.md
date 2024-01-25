@@ -6,19 +6,29 @@
 - 💡 I enjoy collaborating with like-minded individuals and contributing to open-source projects that have a positive impact on the developer community, Check out my GitHub profile for examples of my work and projects I've contributed to.
 - 📫 How to reach me **munwaralijmd@gmail.com**
 ## Skills:
+
 - **Core Java**
+  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+
 - **HTML/CSS**
-- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="20" height="20"/> Core Java
-- <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML/CSS" width="20" height="20"/> HTML/CSS
-- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="20" height="20"/> Angular
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+
+- **Angular**
+  ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
+
 - **Database Management**
-  - <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="20" height="20"/> MySQL
-  - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="20" height="20"/> MongoDB
+  - MySQL
+    ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+  - MongoDB
+    ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+
 - **DevOps**
-  - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="20" height="20"/> Docker
-  - <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Kubernetes
-  - Deployment
-  - Pipeline Building
+  ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+  ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+  ![Deployment](https://image-url-for-deployment-icon.png)
+  ![Pipeline Building](https://image-url-for-pipeline-icon.png)
+
 
 
 <!---
