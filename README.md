@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MunwarAli12, a B.Tech undergraduate with prominent Java knowledge.
+# 👋 Hi, I’m @MunwarAli12, B.Tech undergraduate with prominent Java knowledge.
 
 🌱 I’m currently learning **Web Development** and **DevOps**!
 
