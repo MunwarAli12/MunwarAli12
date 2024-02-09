@@ -10,7 +10,7 @@
 
 📫 How to reach me: **munwaralijmd@gmail.com**
 
-💼 Check out my [repositories](https://github.com/MunwarAli12) for examples of my work and projects I've contributed to.
+💼 Check out my [repositories](https://github.com/MunwarAli12) ,of my work and projects I've contributed to.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
