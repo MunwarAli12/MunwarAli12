@@ -1,16 +1,14 @@
 # 👋 Hi, I’m [Munwar Ali](https://github.com/MunwarAli12) , B.Tech undergraduate with prominent Java knowledge.
 
-🌱 I’m currently learning **Web Development** and **DevOps**!
+🌱 I’m gearing up on **Web Development** and **DevOps**!
 
-🔎 Actively seeking job opportunities to contribute my skills to real-time projects and make a meaningful impact.
+🚀 Enthusiastic about exploring innovative technologies and staying updated with the latest industry trends, I enjoy collaborating with individuals and contributing to open-source projects that have a positive impact on the developer community.
 
-🎯 My goal is to leverage my Java expertise and newfound web development and DevOps skills to build robust and efficient applications.
+💼  Actively seeking job opportunities to contribute my skills to real-time projects and make a meaningful impact.Explore my [repositories](https://github.com/MunwarAli12) to discover the work and projects I've been involved in.
 
-🚀 Enthusiastic about exploring innovative technologies and staying updated with the latest industry trends, I enjoy collaborating with like-minded individuals and contributing to open-source projects that have a positive impact on the developer community.
+🎯 My goal is to leverage my Java expertise and newfound web development and DevOps skills to build robust and efficient applications.Connect me through: **munwaralijmd@gmail.com**
 
-📫 How to reach me: **munwaralijmd@gmail.com**
 
-💼 Check out my [repositories](https://github.com/MunwarAli12) ,of my work and projects I've contributed to.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -41,6 +39,8 @@
   <img src="https://aws.amazon.com/favicon.ico" alt="AWS" width="40" height="40"/>
   <strong>AWS</strong>
 </div>
+
+
 
 
 <!---
