@@ -1,12 +1,12 @@
-# 👋 Hi, I’m [Munwar Ali](https://github.com/MunwarAli12) , B.Tech undergraduate with prominent Java knowledge.
+### 👋 Hi, I’m [Munwar Ali](https://github.com/MunwarAli12) , B.Tech undergraduate with prominent Java knowledge.
 
 🌱 I’m gearing up on **Web Development** and **DevOps**!
 
 🚀 Enthusiastic about exploring innovative technologies and staying updated with the latest industry trends, I enjoy collaborating with individuals and contributing to open-source projects that have a positive impact on the developer community.
 
-💼  Actively seeking job opportunities to contribute my skills to real-time projects and make a meaningful impact.Explore my [repositories](https://github.com/MunwarAli12) to discover the work and projects I've been involved in.
+💼  Actively seeking job opportunities to contribute my skills to real-time projects and make a meaningful impact. Explore my [repositories](https://github.com/MunwarAli12) to discover the work and projects I've been involved in.
 
-🎯 My goal is to leverage my Java expertise and newfound web development and DevOps skills to build robust and efficient applications.Connect me through: **munwaralijmd@gmail.com**
+🎯 My goal is to leverage my Java expertise and newfound web development and DevOps skills to build robust and efficient applications. Connect me through: **munwaralijmd@gmail.com**
 
 
 
@@ -20,6 +20,9 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <strong>CSS3</strong>
+  
+  <img src="https://reactjs.org/favicon.ico" alt="ReactJS" width="40" height="40"/>
+  <strong>React</strong>
 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <strong>Angular</strong>
