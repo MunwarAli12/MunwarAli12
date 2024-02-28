@@ -1,4 +1,10 @@
-### 👋 Hi, I’m [Munwar Ali](https://github.com/MunwarAli12) , B.Tech undergraduate with prominent Java knowledge.
+<center>
+
+# 👋 Hi, I’m [Munwar Ali](https://github.com/MunwarAli12), B.Tech undergraduate with prominent Java knowledge.
+
+</center>
+
+---
 
 🌱 I’m gearing up on **Web Development** and **DevOps**!
 
