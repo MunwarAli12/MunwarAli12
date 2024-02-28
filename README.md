@@ -25,9 +25,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <strong>CSS3</strong>
   
-  <img src="https://reactjs.org/favicon.ico" alt="ReactJS" width="40" height="40"/>
-  <strong>React</strong>
-  
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <strong>Angular</strong>
   
