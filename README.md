@@ -1,10 +1,8 @@
-<center>
 
-<center>
+<h1 align="center">👋 Hi, I’m <a href="https://github.com/MunwarAli12">Munwar Ali</a></h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-# 👋 Hi, I’m [Munwar Ali](https://github.com/MunwarAli12), B.Tech undergraduate
 
-</center>
 
 🌱 I’m gearing up on **Web Development** and **DevOps**!
 
